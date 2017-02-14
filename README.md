@@ -16,7 +16,8 @@
 
 * [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
 * [前端架构师 20k-35k](job-descriptions/frontend-architect.md)
-* [Node.js 工程师 15k-35k](job-descriptions/node-engineer.md)
+* [Node.js 工程师 10k-35k](job-descriptions/node-engineer.md)
+* [资深Node.js 工程师 15k-35k](job-descriptions/senior-node-engineer.md)
 * [iOS 工程师 10k-30k](job-descriptions/ios-engineer.md)
 * [Android 工程师 10k-30k](job-descriptions/android-engineer.md)
 * [Ruby 工程师 10k-20k](job-descriptions/ruby-engineer.md)
