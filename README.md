@@ -12,7 +12,7 @@
 
 点击查看具体要求
 
-* [前端工程师 10k-30k](/strikingly/hiring/job-descriptions/frontend.md)
+* [前端工程师 10k-30k](/strikingly/hiring/job-descriptions/frontend-engineer.md)
 * [前端架构师 20k-35k](/strikingly/hiring/job-descriptions/frontend-architect.md)
 * [Node.js 工程师 15k-35k](/strikingly/hiring/job-descriptions/node-engineer.md)
 * [iOS 工程师 10k-30k](/strikingly/hiring/job-descriptions/ios-engineer.md)
