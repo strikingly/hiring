@@ -8,6 +8,18 @@
 我们的成员：一群执着于产品，以技术和设计为导向的年轻人
 我们期待的：志同道合，乐观向上，保持谦逊，不断突破，热爱创造价值的你
 
+## 开放职位
+
+点击查看具体要求
+
+* [前端工程师 10k-30k](/strikingly/hiring/job-descriptions/frontend.md)
+* [前端架构师 20k-35k](/strikingly/hiring/job-descriptions/frontend-architect.md)
+* [Node.js 工程师 15k-35k](/strikingly/hiring/job-descriptions/node-engineer.md)
+* [iOS 工程师 10k-30k](/strikingly/hiring/job-descriptions/ios-engineer.md)
+* [Android 工程师 10k-30k](/strikingly/hiring/job-descriptions/android-engineer.md)
+
+## 公司照片
+
 每三个月一次脑洞大开的 Hackathon
 
 ![](https://github.com/strikingly/hiring/blob/master/assets/images/hack2.jpeg)
@@ -35,10 +47,4 @@
 ![](https://github.com/strikingly/hiring/blob/master/assets/images/food2.jpeg)
 
 ![](https://github.com/strikingly/hiring/blob/master/assets/images/food1.jpeg)
-
-## 开放职位
-
-点击查看具体要求
-
-
 
