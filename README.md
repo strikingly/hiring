@@ -17,6 +17,11 @@
 * [Node.js 工程师 15k-35k](/strikingly/hiring/job-descriptions/node-engineer.md)
 * [iOS 工程师 10k-30k](/strikingly/hiring/job-descriptions/ios-engineer.md)
 * [Android 工程师 10k-30k](/strikingly/hiring/job-descriptions/android-engineer.md)
+* [Ruby 工程师 10k-20k](/strikingly/hiring/job-descriptions/ruby-engineer.md)
+* [资深 Ruby 工程师 20k-35k](/strikingly/hiring/job-descriptions/senior-ruby-engineer.md)
+* [资深后端工程师 20k-35k](/strikingly/hiring/job-descriptions/senior-backend-engineer.md)
+* [开发运维工程师 10k-25k](/strikingly/hiring/job-descriptions/devops-engineer.md)
+* [数据工程师 10k-25k](/strikingly/hiring/job-descriptions/data-engineer.md)
 
 ## 公司照片
 
@@ -47,4 +52,3 @@
 ![](https://github.com/strikingly/hiring/blob/master/assets/images/food2.jpeg)
 
 ![](https://github.com/strikingly/hiring/blob/master/assets/images/food1.jpeg)
-
