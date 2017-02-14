@@ -12,7 +12,7 @@
 
 ## 开放职位
 
-点击查看具体要求
+坐标上海，点击查看具体要求
 
 * [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
 * [前端架构师 20k-35k](job-descriptions/frontend-architect.md)
