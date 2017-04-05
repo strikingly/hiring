@@ -17,14 +17,15 @@
 * [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
 * [前端架构师 20k-35k](job-descriptions/frontend-architect.md)
 * [Node.js 工程师 10k-35k](job-descriptions/node-engineer.md)
-* [资深Node.js 工程师 15k-35k](job-descriptions/senior-node-engineer.md)
+* [资深 Node.js 工程师 15k-35k](job-descriptions/senior-node-engineer.md)
 * [iOS 工程师 10k-30k](job-descriptions/ios-engineer.md)
 * [Android 工程师 10k-30k](job-descriptions/android-engineer.md)
 * [Ruby 工程师 10k-20k](job-descriptions/ruby-engineer.md)
 * [资深 Ruby 工程师 20k-35k](job-descriptions/senior-ruby-engineer.md)
 * [资深后端工程师 20k-35k](job-descriptions/senior-backend-engineer.md)
 * [开发运维工程师 10k-25k](job-descriptions/devops-engineer.md)
-* [数据工程师 10k-25k](job-descriptions/data-engineer.md)
+* [数据分析工程师 10k-25k](job-descriptions/data-analytics-engineer.md)
+* [数据平台工程师 10k-25k](job-descriptions/data-platform-engineer.md)
 
 ## 公司照片
 
