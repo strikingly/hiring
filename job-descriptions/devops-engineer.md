@@ -23,8 +23,8 @@
 ## 加分项
 
 - 熟练掌握 Go 编程语言
-- 具备丰富的 Amazon Web Services 实战经验
-- 精通 Docker 及其生态系统
+- 具备一定的 Amazon Web Services 实战经验
+- 熟悉 Docker 及其生态系统
 - 具备丰富的容器平台构建和维护经验
 - 熟练使用 Terraform
 - 熟练使用 Ansible
