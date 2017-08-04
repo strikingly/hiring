@@ -21,6 +21,7 @@
 * [Android 工程师 10k-30k](job-descriptions/android-engineer.md)
 * [Ruby 工程师 10k-20k](job-descriptions/ruby-engineer.md)
 * [资深 Ruby 工程师 20k-35k](job-descriptions/senior-ruby-engineer.md)
+* [后端工程师 20k-35k](job-descriptions/backend-engineer.md)
 * [资深后端工程师 20k-35k](job-descriptions/senior-backend-engineer.md)
 * [开发运维工程师 10k-35k](job-descriptions/devops-engineer.md)
 * [数据分析工程师 10k-35k](job-descriptions/data-analytics-engineer.md)
