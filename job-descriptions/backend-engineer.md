@@ -11,14 +11,15 @@
 ## 职位要求
 
 - 掌握以下主流编程语言中的一种或几种
-	- Ruby
-  - Go
-	- Java
-	- Scala
-	- Clojure
-	- Python
-	- Node.js
-	- C#
+    - Ruby
+    - Go
+    - Java
+    - Kotlin
+    - Scala
+    - Clojure
+    - Python
+    - Node.js
+    - C#
 - 掌握以上主流编程语言对应的主流 Web 框架
 - 掌握 Git 版本控制工具
 - 了解常见设计模式和编程最佳实践
