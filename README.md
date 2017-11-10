@@ -44,6 +44,8 @@
 * [数据平台工程师 10k-35k](job-descriptions/data-platform-engineer.md)
 * [自动化测试工程师 10k-20k](job-descriptions/test-automation-engineer.md)
 * [QA工程师 8k-18k](job-descriptions/test-engineer.md)
+* [Project Manager 10-30k](job-descriptions/project-manager.en.md)
+* [项目管理 10-30k](job-descriptions/project-manager.md)
 
 ## 公司照片
 
