@@ -11,14 +11,14 @@
 ## Requirements
 
 - Familiar with one or more of the following programming languages:
-	- Ruby
-	- Kotlin
-	- Lua
-	- Java
-	- Node.js
-	- Python
-	- Scala
-	- Go
+    - Ruby
+    - Kotlin
+    - Lua
+    - Java
+    - Node.js
+    - Python
+    - Scala
+    - Go
 - Familiar with at least one web framework written in one of the above languages
 - Familiar with Git
 - Know common design patterns and coding best practices
