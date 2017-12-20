@@ -12,13 +12,13 @@
 
 - 熟练掌握以下主流编程语言中的一种或几种
 	- Ruby
-	- Go
+	- Kotlin
+	- Lua
 	- Java
-	- Scala
-	- Clojure
-	- Python
 	- Node.js
-	- C#
+	- Python
+	- Scala
+	- Go
 - 熟练掌握以上主流编程语言对应的主流 Web 框架
 - 掌握 Git 版本控制工具
 - 了解常见设计模式和编程最佳实践
@@ -30,8 +30,8 @@
 
 ## 加分项
 
-- 熟悉 Ruby 和 Rails
-- 熟悉主流 Ruby Web 服务器的性能调优
+- 熟悉 Ruby 或者 Kotlin
+- 熟悉后端服务的性能调优
 - Github 有后端项目超过 100 star，或给大型开源项目贡献过代码
 - 具备丰富的 Web 应用微服务架构实践经验
 - 具备丰富的 Web 应用高可用性实践经验
