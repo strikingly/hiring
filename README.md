@@ -41,7 +41,6 @@
 * [开发运维工程师 10k-35k](job-descriptions/devops-engineer.md)
 * [开发运维工程师（中国区） 10k-35k](job-descriptions/devops-engineer-cn.md)
 * [DBA 工程师 15k-25k](job-descriptions/dba-engineer.md)
-* [数据分析工程师 10k-35k](job-descriptions/data-analytics-engineer.md)
 * [数据平台工程师 10k-35k](job-descriptions/data-platform-engineer.md)
 * [自动化测试工程师 10k-20k](job-descriptions/test-automation-engineer.md)
 * [QA工程师 8k-18k](job-descriptions/test-engineer.md)
