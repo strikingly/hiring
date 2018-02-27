@@ -27,8 +27,11 @@
 
 坐标上海，点击查看具体要求
 
-* [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
+* [前端研发主管 20k-40k](job-descriptions/frontend-manager.md)
+* [后端研发主管 20k-40k](job-descriptions/backend-manager.md)
+* [技术总监（西安）20k-30k](job-descriptions/tech-director-xian.md)
 * [前端架构师 20k-35k](job-descriptions/frontend-architect.md)
+* [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
 * [Node.js 工程师 10k-35k](job-descriptions/node-engineer.md)
 * [iOS 工程师 10k-30k](job-descriptions/ios-engineer.md)
 * [Android 工程师 10k-30k](job-descriptions/android-engineer.md)
