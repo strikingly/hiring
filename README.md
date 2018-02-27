@@ -23,12 +23,12 @@
 
 感兴趣的小伙伴们请发送简历至 jobs@strikingly.com 并注明来自 Github，也欢迎大家踊跃推荐，推荐成功有 1000 美金伯乐奖。
 
-## 开放职位
+## 开放职位（上海）
 
-坐标上海，点击查看具体要求
-
-* [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
+* [前端研发主管 20k-40k](job-descriptions/frontend-manager.md)
+* [后端研发主管 20k-40k](job-descriptions/backend-manager.md)
 * [前端架构师 20k-35k](job-descriptions/frontend-architect.md)
+* [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
 * [Node.js 工程师 10k-35k](job-descriptions/node-engineer.md)
 * [iOS 工程师 10k-30k](job-descriptions/ios-engineer.md)
 * [Android 工程师 10k-30k](job-descriptions/android-engineer.md)
@@ -41,12 +41,16 @@
 * [开发运维工程师 10k-35k](job-descriptions/devops-engineer.md)
 * [开发运维工程师（中国区） 10k-35k](job-descriptions/devops-engineer-cn.md)
 * [DBA 工程师 15k-25k](job-descriptions/dba-engineer.md)
-* [数据分析工程师 10k-35k](job-descriptions/data-analytics-engineer.md)
 * [数据平台工程师 10k-35k](job-descriptions/data-platform-engineer.md)
 * [自动化测试工程师 10k-20k](job-descriptions/test-automation-engineer.md)
 * [QA工程师 8k-18k](job-descriptions/test-engineer.md)
-* [Project Manager 10-30k](job-descriptions/project-manager.en.md)
-* [项目管理 10-30k](job-descriptions/project-manager.md)
+* [Project Manager 10k-30k](job-descriptions/project-manager.en.md)
+* [项目经理 10k-30k](job-descriptions/project-manager.md)
+
+## 开放职位（西安）
+
+* [技术总监 20k-30k](job-descriptions/tech-director.md)
+* [项目经理 10k-20k](job-descriptions/project-manager.md)
 
 ## 公司照片
 
