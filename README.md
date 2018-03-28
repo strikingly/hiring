@@ -38,6 +38,7 @@
 * [资深 Ruby 工程师 20k-35k](job-descriptions/senior-ruby-engineer.md)
 * [后端工程师 10k-20k](job-descriptions/backend-engineer.md)
 * [资深后端工程师 20k-35k](job-descriptions/senior-backend-engineer.md)
+* [Golang 工程师 10k-35k](job-descriptions/golang-engineer.md)
 * [系统工程师 10k-20k](job-descriptions/systems-engineer.md)
 * [系统工程师（中国区） 10k-20k](job-descriptions/systems-engineer-cn.md)
 * [开发运维工程师 10k-35k](job-descriptions/devops-engineer.md)
