@@ -50,10 +50,13 @@
 * [Project Manager 10k-30k](job-descriptions/project-manager.en.md)
 * [项目经理 10k-30k](job-descriptions/project-manager.md)
 
-## 开放职位（西安）
+## 开放职位（成都）
 
-* [技术总监 20k-30k](job-descriptions/tech-director.md)
-* [项目经理 10k-20k](job-descriptions/project-manager.md)
+* [前端工程师 8k-25k](job-descriptions/frontend-engineer.md)
+* [Ruby 工程师 8k-15k](job-descriptions/ruby-engineer.md)
+* [资深 Ruby 工程师 15k-25k](job-descriptions/senior-ruby-engineer.md)
+* [后端工程师 8k-15k](job-descriptions/backend-engineer.md)
+* [资深后端工程师 15k-25k](job-descriptions/senior-backend-engineer.md)
 
 ## 公司照片
 
