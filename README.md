@@ -52,12 +52,13 @@
 
 ## 开放职位（成都）
 
-* [前端工程师 8k-25k](job-descriptions/frontend-engineer.md)
-* [Ruby 工程师 8k-15k](job-descriptions/ruby-engineer.md)
-* [资深 Ruby 工程师 15k-25k](job-descriptions/senior-ruby-engineer.md)
-* [后端工程师 8k-15k](job-descriptions/backend-engineer.md)
-* [资深后端工程师 15k-25k](job-descriptions/senior-backend-engineer.md)
-* [QA工程师 5k-15k](job-descriptions/test-engineer.md)
+* [前端工程师 9k-18k](job-descriptions/frontend-engineer.md)
+* [资深前端工程师 18k-30k](job-descriptions/senior-frontend-engineer.md)
+* [Ruby 工程师 9k-18k](job-descriptions/ruby-engineer.md)
+* [资深 Ruby 工程师 18k-30k](job-descriptions/senior-ruby-engineer.md)
+* [后端工程师 9k-18k](job-descriptions/backend-engineer.md)
+* [资深后端工程师 18k-30k](job-descriptions/senior-backend-engineer.md)
+* [QA工程师 7k-14k](job-descriptions/test-engineer.md)
 
 ## 公司照片
 
