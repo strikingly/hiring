@@ -27,6 +27,8 @@
 
 * [前端研发主管 20k-40k](job-descriptions/frontend-manager.md)
 * [后端研发主管 20k-40k](job-descriptions/backend-manager.md)
+* [HTML5 游戏工程师 15k-25k](job-descriptions/html5-game-engineer.md)
+* [游戏服务端工程师 15k-25k](job-descriptions/game-server-engineer.md)
 * [前端架构师 20k-35k](job-descriptions/frontend-architect.md)
 * [前端工程师 10k-30k](job-descriptions/frontend-engineer.md)
 * [Node.js 工程师 10k-35k](job-descriptions/node-engineer.md)
