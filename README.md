@@ -48,7 +48,7 @@
 * [DBA 工程师 15k-25k](job-descriptions/dba-engineer.md)
 * [数据平台工程师 10k-35k](job-descriptions/data-platform-engineer.md)
 * [自动化测试工程师 10k-20k](job-descriptions/test-automation-engineer.md)
-* [测试开发工程师 10k-20k](job-descriptions/test-automation-engineer.md)
+* [测试开发工程师 10k-20k](job-descriptions/sdet.md)
 * [系统测试工程师 8k-18k](job-descriptions/test-engineer.md)
 * [Project Manager 10k-30k](job-descriptions/project-manager.en.md)
 * [项目经理 10k-30k](job-descriptions/project-manager.md)
