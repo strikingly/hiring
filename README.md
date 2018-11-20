@@ -64,6 +64,7 @@
 * [资深 Ruby 工程师 18k-30k](job-descriptions/senior-ruby-engineer.md)
 * [后端工程师 9k-18k](job-descriptions/backend-engineer.md)
 * [资深后端工程师 18k-30k](job-descriptions/senior-backend-engineer.md)
+* [软件质量管理工程师 8k-16k](job-descriptions/sqa-engineer.md)
 * [系统测试工程师 7k-14k](job-descriptions/test-engineer.md)
 
 ## 公司照片
