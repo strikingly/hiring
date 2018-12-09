@@ -14,6 +14,7 @@
 - Bachelor degree or above
 - Has worked both in larger organization and startup environment
 - Experience in information technology sector
+- Has >2 years of developer experience
 - Fluent English (spoken and written)
 - Good communication skill
 - Solid organizational skills including attention to detail and multi-tasking skills
