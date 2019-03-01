@@ -108,4 +108,4 @@ Operating system for business owners
 
 ![](https://github.com/strikingly/hiring/blob/master/assets/images/food1.jpeg)
 
-感兴趣的小伙伴们请发送简历至 jobs@strikingly.com 并注明来自 Github，也欢迎大家踊跃推荐，推荐成功有 1000 美金伯乐奖。
+感兴趣的小伙伴们请发送简历至 jobs@strikingly.com 并注明来自 Github，也欢迎大家踊跃推荐，推荐成功有 6000 人民币伯乐奖。
