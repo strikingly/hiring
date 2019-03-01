@@ -4,6 +4,20 @@
 
 2016年4月，我们正式推出了中国版产品 [上线了sxl.cn](https://www.sxl.cn)，提供了更多符合本土国情和互联网生态的产品特性。2017年8月推出十款[小程序行业解决方案](https://www.sxl.cn/xiaochengxu)，小程序发布量行业领先。2018年8月推出新商务产品，[超级云名片](https://www.sxl.cn/yunmingpian)。
 
+**使命 Mission**
+
+Create WOW Moments. Create superfans.
+
+**愿景 Vision**
+
+Operating system for business owners
+
+**价值观 Values**
+
+1. Best or nothing
+2. All in or nothing
+3. Result driven and not self-applauding
+
 公司发展历程：
 
 * 2012.08 Strikingly 诞生于硅谷单间公寓
@@ -20,9 +34,6 @@
 * 2018.08 “上线了” A+ 轮1000万美金融资发布会
 * 2018.08 “上线了”发布[超级云名片](https://www.sxl.cn/yunmingpian)
 
-我们的团队：一支诞生于硅谷，扎根在中国，快速成长的国际化创业团队
-我们的成员：一群执着于产品，以技术和设计为导向的年轻人
-我们期待的：志同道合，乐观向上，保持谦逊，不断突破，热爱创造价值的你
 
 感兴趣的小伙伴们请发送简历至 jobs@strikingly.com 并注明来自 Github，也欢迎大家踊跃推荐，推荐成功有 1000 美金伯乐奖。
 
