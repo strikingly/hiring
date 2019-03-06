@@ -1,6 +1,6 @@
 # 加入 Strikingly
 
-[Strikingly](https://www.strikingly.com) 是一个简单易用的网站和小程序搭建平台，没有技术背景的用户也在很短的时间内创建和发布设计精美的网站和小程序。我们的产品自2012年8月发布以来增长迅速，第二个月就开始盈利。创始团队于2013年初进入 Y Combinator 孵化项目，是 YC 毕业的第一个中国团队，获得了来自 凯辉基金，国科嘉合，SV Angel，Index Ventures， FundersClub，创新工场等机构的1750万美金投资。目前 Strikingly 的用户遍布全球200多个国家和地区，提供6种语言的应用界面和客户支持。
+[Strikingly](https://www.strikingly.com) 是一个简单易用的网站和小程序搭建平台，没有技术背景的用户也在很短的时间内创建和发布设计精美的网站和小程序。我们的产品自2012年8月发布以来增长迅速，第二个月就开始盈利。创始团队于2013年初进入 Y Combinator 孵化项目，是 YC 毕业的第一个中国团队，获得了来自 凯辉基金，国科嘉和，SV Angel，Index Ventures， FundersClub，创新工场等机构的1750万美金投资。目前 Strikingly 的用户遍布全球200多个国家和地区，提供6种语言的应用界面和客户支持。
 
 2016年4月，我们正式推出了中国版产品 [上线了sxl.cn](https://www.sxl.cn)，提供了更多符合本土国情和互联网生态的产品特性。2017年8月推出十款[小程序行业解决方案](https://www.sxl.cn/xiaochengxu)，小程序发布量行业领先。2018年8月推出新商务产品，[超级云名片](https://www.sxl.cn/yunmingpian)。
 
